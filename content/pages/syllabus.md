@@ -55,10 +55,39 @@ Salih, Al-Tayyib, and Tayeb Salih. _Season of Migration to the North_. NYRB Clas
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Essay | 75% (25% for each essay) |
-| Class participation (includes oral presentations) | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay
+{{< tdclose >}}
+{{< tdopen >}}
+75% (25% for each essay)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation (includes oral presentations)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Statement on Plagiarism
 ---------------------------
@@ -68,30 +97,385 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Diderot, Denis. _Supplement du Voyage du Bougainville_. {{< br >}}{{< br >}} Montesquieu. _Persian Letters_, Letters 25–30. {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | Kant, Immanuel. "What is Enlightenment?" | &nbsp; |
-| 4 | Xuegin, Cao. _The Story of the Stone Vol.1_. Translated by David Hawkes, chapters 1–7. | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Xuegin, Cao. _The Story of the Stone Vol.1_. Translated by David Hawkes, Penguin Classics, 1974, chapters 8–16. (cont.) {{< br >}}{{< br >}} Paper topics distributed. {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Xuegin, Cao. _The Story of the Stone Vol.1_. Translated by David Hawkes, Penguin Classics, 1974, chapters 17–26. (cont.) | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Smith, Adam. _The Wealth of Nations_, Chapters I–IX and Books I–V. {{< br >}}{{< br >}} Marx, Karl, and Friedrich Engels. _The Communist Manifesto_, chapter I. {{< br >}}{{< br >}}  | First paper due |
-| 8 | Mill, John Stuart. _On Liberty: The Subjection of Women_, chapters 1–3. | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Darwin, Charles. _The Origin of Species._ {{< br >}}{{< br >}} First papers will be checked and returned. {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | Nietzsche, Friedrich. Preface, part 1 (1, 6, 9, 23), part 2 (24, 26, 29, 36, 44), part 3 (52, 59, 61), part 7 (238–239), part 9 in _Beyond Good and Evil: Prelude to a Philosophy of the Future_. | &nbsp; |
-| 11 | Freud, Sigmund. _Civilization and Its Discontents_. | Revised papers due |
-| 12 | Freud, Sigmund. _Civilization and Its Discontents_. (cont.) | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} Tagore, Rabindranath. _Broken Nest and Other Stories_. Translated by Sharmistha Mohanty. {{< br >}}{{< br >}} Paper topics distributed. {{< br >}}{{< br >}}  | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} de Beauvoir, Simone. _The Second Sex_, Introduction. {{< br >}}{{< br >}} "[Do Women Like Child Care More Than Men?](http://well.blogs.nytimes.com/2012/03/22/do-women-like-child-care-more-than-men/)" _New York Times_, March 22, 2012. {{< br >}}{{< br >}}  | &nbsp; |
-| 15 | de Beauvoir, Simone. _The Second Sex_, Conclusion. | Second paper due |
-| 16 | Kincaid, Jamaica. [_Girl._ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.saginaw-twp.k12.mi.us/view/8490.pdf) | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} Conrad, Joseph. _Heart of Darkness_. {{< br >}}{{< br >}} Second papers will be checked and returned. {{< br >}}{{< br >}}  | &nbsp; |
-| 18 | Salih, Al-Tayyib, and Tayeb Salih. _Season of Migration to the North: A Novel_. | &nbsp; |
-| 19 | Salih, Al-Tayyib, and Tayeb Salih. _Season of Migration to the North: A Novel_. (cont.) | &nbsp; |
-| 20 |  {{< br >}}{{< br >}} neversaidb4. "Reel Bad Arabs: How Hollywood Vilifies a People (part 1)." June 24, 2008. YouTube. Accessed November 16, 2012. [http://www.youtube.com/watch?v=k1-Bbz\_TBMc](http://www.youtube.com/watch?v=k1-Bbz_TBMc). {{< br >}}{{< br >}} Said, Edward W. _Orientalism_, pp. 1–92. {{< br >}}{{< br >}}  | &nbsp; |
-| 21 | Foucault, Michel. _Discipline and Punish_, pp. 3–8, 195–228. | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} Arendt, Hannah. "[Reflections on Violence](http://www.nybooks.com/articles/archives/1969/feb/27/a-special-supplement-reflections-on-violence/)." {{< br >}}{{< br >}}  | &nbsp; |
-| 23 |  {{< br >}}{{< br >}} Milgram, Stanley. "The Perils of Obedience" and Marcus, Steven. "Authority and Obedience" In _Representations: Essays on Literature and Society_. {{< br >}}{{< br >}} Zimbardo, Philip G. [_Stanford Prison Experiment_](http://www.prisonexp.org/). 1971. {{< br >}}{{< br >}}  | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Chaplin, Charles. [_Modern Times_](http://www.imdb.com/title/tt0027977/). 1936. {{< br >}}{{< br >}} Lang, Fritz. [_Metropolis_](http://www.imdb.com/title/tt0017136/). 1927. {{< br >}}{{< br >}}  | &nbsp; |
-| 25 | Last day of classes. | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Diderot, Denis. _Supplement du Voyage du Bougainville_.
+
+Montesquieu. _Persian Letters_, Letters 25–30.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Kant, Immanuel. "What is Enlightenment?"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Xuegin, Cao. _The Story of the Stone Vol.1_. Translated by David Hawkes, chapters 1–7.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Xuegin, Cao. _The Story of the Stone Vol.1_. Translated by David Hawkes, Penguin Classics, 1974, chapters 8–16. (cont.)
+
+Paper topics distributed.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Xuegin, Cao. _The Story of the Stone Vol.1_. Translated by David Hawkes, Penguin Classics, 1974, chapters 17–26. (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Smith, Adam. _The Wealth of Nations_, Chapters I–IX and Books I–V.
+
+Marx, Karl, and Friedrich Engels. _The Communist Manifesto_, chapter I.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+First paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Mill, John Stuart. _On Liberty: The Subjection of Women_, chapters 1–3.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Darwin, Charles. _The Origin of Species._
+
+First papers will be checked and returned.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Nietzsche, Friedrich. Preface, part 1 (1, 6, 9, 23), part 2 (24, 26, 29, 36, 44), part 3 (52, 59, 61), part 7 (238–239), part 9 in _Beyond Good and Evil: Prelude to a Philosophy of the Future_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Freud, Sigmund. _Civilization and Its Discontents_.
+{{< tdclose >}}
+{{< tdopen >}}
+Revised papers due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Freud, Sigmund. _Civilization and Its Discontents_. (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tagore, Rabindranath. _Broken Nest and Other Stories_. Translated by Sharmistha Mohanty.
+
+Paper topics distributed.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+de Beauvoir, Simone. _The Second Sex_, Introduction.
+
+"[Do Women Like Child Care More Than Men?](http://well.blogs.nytimes.com/2012/03/22/do-women-like-child-care-more-than-men/)" _New York Times_, March 22, 2012.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+de Beauvoir, Simone. _The Second Sex_, Conclusion.
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Kincaid, Jamaica. [_Girl._ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.saginaw-twp.k12.mi.us/view/8490.pdf)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Conrad, Joseph. _Heart of Darkness_.
+
+Second papers will be checked and returned.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Salih, Al-Tayyib, and Tayeb Salih. _Season of Migration to the North: A Novel_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Salih, Al-Tayyib, and Tayeb Salih. _Season of Migration to the North: A Novel_. (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+neversaidb4. "Reel Bad Arabs: How Hollywood Vilifies a People (part 1)." June 24, 2008. YouTube. Accessed November 16, 2012. [http://www.youtube.com/watch?v=k1-Bbz\_TBMc](http://www.youtube.com/watch?v=k1-Bbz_TBMc).
+
+Said, Edward W. _Orientalism_, pp. 1–92.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Foucault, Michel. _Discipline and Punish_, pp. 3–8, 195–228.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Arendt, Hannah. "[Reflections on Violence](http://www.nybooks.com/articles/archives/1969/feb/27/a-special-supplement-reflections-on-violence/)."
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Milgram, Stanley. "The Perils of Obedience" and Marcus, Steven. "Authority and Obedience" In _Representations: Essays on Literature and Society_.
+
+Zimbardo, Philip G. [_Stanford Prison Experiment_](http://www.prisonexp.org/). 1971.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chaplin, Charles. [_Modern Times_](http://www.imdb.com/title/tt0027977/). 1936.
+
+Lang, Fritz. [_Metropolis_](http://www.imdb.com/title/tt0017136/). 1927.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Last day of classes.
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
