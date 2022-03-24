@@ -166,7 +166,7 @@ Beauvoir, Simone de. "Conclusion" In [_The Second Sex_](http://www.marxists.org/
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Kincaid, Jamaica. ["Girl." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://static1.squarespace.com/static/54d3dd03e4b0a3a22e201dad/t/54fe33b3e4b0c5b47619eee6/1425945523938/Girl_Jamaica_Kincaid.pdf) In _At the Bottom of the River._ Farrar, Straus and Giroux, 2000. ISBN: 9780374527341.
+Kincaid, Jamaica. ["Girl." (PDF)](http://static1.squarespace.com/static/54d3dd03e4b0a3a22e201dad/t/54fe33b3e4b0c5b47619eee6/1425945523938/Girl_Jamaica_Kincaid.pdf) In _At the Bottom of the River._ Farrar, Straus and Giroux, 2000. ISBN: 9780374527341.
 {{< tdclose >}}
 
 {{< trclose >}}

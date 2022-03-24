@@ -334,7 +334,7 @@ Second paper due
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Kincaid, Jamaica. [_Girl._ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.saginaw-twp.k12.mi.us/view/8490.pdf)
+Kincaid, Jamaica. [_Girl._ (PDF)](http://www.saginaw-twp.k12.mi.us/view/8490.pdf)
 {{< tdclose >}}
 {{< tdopen >}}
  
